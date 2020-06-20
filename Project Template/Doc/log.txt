@@ -1,0 +1,5 @@
+#i2c spi 缺陷
+
+#oled只支持vivid主题
+
+
